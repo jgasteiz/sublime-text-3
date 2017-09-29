@@ -1,0 +1,5 @@
+[
+    { "keys": ["super+b"], "command": "goto_definition" },
+    { "keys": ["super+b"], "command": "anaconda_goto" },
+    { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+]
