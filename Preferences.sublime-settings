@@ -15,7 +15,7 @@
 		"*.ttf",
 		"*.zip"
 	],
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"color_scheme": "Packages/User/Color Highlighter/themes/Dark-Material.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 14,
@@ -29,7 +29,7 @@
 		100,
 		120
 	],
-	"theme": "Boxy Monokai.sublime-theme",
+	"theme": "Dark-Material.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
